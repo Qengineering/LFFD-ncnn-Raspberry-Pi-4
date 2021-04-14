@@ -1,5 +1,5 @@
 # LFFD face detection Raspberry Pi 4
-![output image]( https://qengineering.eu/images/test_parkV5.jpg )
+![output image]( https://qengineering.eu/images/result_26.jpg )
 ## LFFD face detection with the ncnn framework. <br/>
 [![License](https://img.shields.io/badge/License-BSD%203--Clause-blue.svg)](https://opensource.org/licenses/BSD-3-Clause)<br/><br/>
 Paper: https://arxiv.org/pdf/1904.10633.pdf<br/><br/>
@@ -60,5 +60,5 @@ symbol_10_560_25L_8scales_v1_deploy.param
 ## Running the app.
 To run the application load the project file FaceDetection_LFFD_ncnn.cbp in Code::Blocks.<br/> 
 Next, follow the instructions at [Hands-On](https://qengineering.eu/deep-learning-examples-on-raspberry-32-64-os.html#HandsOn).<br/><br/>
-![output image]( https://qengineering.eu/images/test_busV5.jpg )
+![output image]( https://qengineering.eu/images/selfie_result_8.jpg.jpg )
 
