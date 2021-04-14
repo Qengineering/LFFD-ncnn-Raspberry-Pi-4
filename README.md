@@ -8,7 +8,7 @@ Special made for a Jetson Nano see [Q-engineering deep learning examples](https:
 ------------
 
 ## Benchmark.
-| Model  | model |size |  mAP | Jetson Nano 2015 MHz | RPi 4 64-OS 1950 MHz |
+| Model  | model |size |  mAP | Jetson Nano<br/>2015 MHz | RPi 4 64-OS<br/>1950 MHz |
 | ------------- | :-----:  | :-----:  | :-----:  | :-------------:  | :-------------: |
 | Ultra-Light-Fast ncnn | slim-320 | 320x240 | 67.1  |    - FPS | **26 FPS** |
 | Ultra-Light-Fast ncnn | RFB-320 | 320x240 | 69.8  |    - FPS | 23 FPS |
