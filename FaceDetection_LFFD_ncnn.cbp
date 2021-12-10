@@ -37,6 +37,7 @@
 		<Linker>
 			<Add option="-fopenmp" />
 			<Add option="`pkg-config --libs --cflags opencv4`" />
+			<Add option="-ldl" />
 			<Add library="/usr/local/lib/ncnn/libncnn.a" />
 		</Linker>
 		<Unit filename="LFFD_ncnn.cpp" />
